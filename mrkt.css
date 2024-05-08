@@ -123,11 +123,6 @@ div {
     font-size: 14px;
 }
 
-.item.ES{
-    transform: scale(1.05%);
-    transition: transform 0.3s ease-in-out;
-}
-
 .contacts p{
     margin: 3px;
 }
